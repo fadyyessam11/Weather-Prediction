@@ -1,4 +1,4 @@
-a machine learning workflow for predicting weather data using three different types of Recurrent Neural Networks (RNN): Simple RNN, LSTM (Long Short-Term Memory), and GRU (Gated Recurrent Units). It goes through data preprocessing, model definition, training, and evaluation
+A machine learning workflow for predicting weather data using three different types of Recurrent Neural Networks (RNN): Simple RNN, LSTM (Long Short-Term Memory), and GRU (Gated Recurrent Units). It goes through data preprocessing, model definition, training, and evaluation
 
 This code performs the following tasks:
 
